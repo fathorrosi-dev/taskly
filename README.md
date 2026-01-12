@@ -1,6 +1,6 @@
 # taskly
 
-![Mockup2](mockup.png)
+![Taskly](taskly.png)
 
 A new Flutter project.
 
